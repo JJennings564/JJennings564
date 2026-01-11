@@ -1,5 +1,7 @@
 - Jesse Jennings
-- Junior CS Major at University of Oklahoma
+- Senior CS Major at University of Oklahoma
+- Favorite Language: C++
+- Most experienced language: Java
 - jjennings564@gmail.com
 <!---
 JJennings564/JJennings564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
